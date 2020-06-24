@@ -1,0 +1,10 @@
+{
+  "orgName": "Campaign Influence Starter Pack MRE Org",
+  "edition": "Enterprise",
+  "features": ["SalesUser", "ServiceCloud", "MarketingUser", "PardotScFeaturesCampaignInfluence"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled":true
+    }
+  }
+}
